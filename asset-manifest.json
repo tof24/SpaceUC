@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/SpaceUC/static/css/main.ceaf21d0.css",
-    "main.js": "/SpaceUC/static/js/main.fa0a713e.js",
-    "static/js/787.d3f6efbf.chunk.js": "/SpaceUC/static/js/787.d3f6efbf.chunk.js",
+    "main.js": "/SpaceUC/static/js/main.e454e717.js",
+    "static/js/787.bf30245a.chunk.js": "/SpaceUC/static/js/787.bf30245a.chunk.js",
     "static/media/14.png": "/SpaceUC/static/media/14.2a28afa0fc28be4c55e7.png",
     "static/media/13.png": "/SpaceUC/static/media/13.f78d13d5ceb4b0406cc1.png",
     "static/media/logo.svg": "/SpaceUC/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/SpaceUC/index.html",
     "main.ceaf21d0.css.map": "/SpaceUC/static/css/main.ceaf21d0.css.map",
-    "main.fa0a713e.js.map": "/SpaceUC/static/js/main.fa0a713e.js.map",
-    "787.d3f6efbf.chunk.js.map": "/SpaceUC/static/js/787.d3f6efbf.chunk.js.map"
+    "main.e454e717.js.map": "/SpaceUC/static/js/main.e454e717.js.map",
+    "787.bf30245a.chunk.js.map": "/SpaceUC/static/js/787.bf30245a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ceaf21d0.css",
-    "static/js/main.fa0a713e.js"
+    "static/js/main.e454e717.js"
   ]
 }
